@@ -6,14 +6,13 @@
 
 ---
 
-### 🚀 About Me
-- 🏢 **Senior Solutions Architect at <a href="https://globy.ai">Globy</a> – designing event‑driven, serverless back‑ends on AWS and fine‑tuning open‑source LLMs.
+###  🚀 About Me
 - 🛠 15 + years of experience across **Systems Engineering, Data Science and DevOps** with a special love for **Golang** and **Linux**.  
 - 🎯 Turning complex data into actionable insights that boost customer experience and cut operational costs.  
-- 🌐 **Languages:** 🇸🇪 Swedish (native) • 🇬🇧 English (professional).
+- 🌐 **Languages:** 🇸🇪 🇬🇧
 
-### 🛠 Tech I frequently work with
 
+###  🛠 Tech I frequently work with
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
@@ -26,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQS](https://img.shields.io/badge/-SQS-CD7213?logo=amazon-aws&logoColor=white)
 
-### 📫 Reach Me
+###  📫 Reach Me
 - ✉️ **bjorn@globy.ai**
 - 💼 [linkedin.com/in/bjorn-lennestal](https://www.linkedin.com/in/bj%C3%B6rn-lennest%C3%A5l-b3603324b/)
 
