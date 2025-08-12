@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Björn Lennestål 👋</h1>
+<h1 align="center">Hi there, I'm Björn 👋</h1>
 
 <p align="center">
 <strong>Senior Solutions Architect&nbsp;•&nbsp;Data Engineer&nbsp;•&nbsp;DevOps&nbsp;&&nbsp;Linux Enthusiast</strong>
